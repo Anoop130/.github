@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Exciting things happen here! :)
 <!--
 
 **Here are some ideas to get you started:**
